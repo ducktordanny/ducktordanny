@@ -2,9 +2,9 @@
 
 > Website: [ducktordanny.com](https://ducktordanny.com)
 
-## About me
+## About me 🙆🏼‍♂️
 
-Hi! My name is Daniel I live in Hungary and I'm currently a Computer Science Engineer student at University of Pannonia, but love to learn new things by myseld as well. Currently I'm working in frontend with Angular, but I also like doing things on the backend and using other frameworks/libraries as well.
+Hi! My name is Daniel I live in Hungary and I'm a Computer Science Engineer student at University of Pannonia (Veszprem), but also love to learn new things by myself. Currently I'm working in frontend with Angular, but I also like doing things on the backend and using other frameworks/libraries as well. 🔧
 
 ## Social Media
 
@@ -13,6 +13,4 @@ Furthermore you can also find me on [Twitter](https://twitter.com/ducktordanny) 
 
 ## Daily.dev stats
 
-<a href="https://app.daily.dev/ducktordanny">
-<img src="https://api.daily.dev/devcards/eaffd91ae815403897ec876b1ecd35a3.png?r=b71" width="400" alt="Daniel Lazar's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/ducktordanny"><img src="https://api.daily.dev/devcards/eaffd91ae815403897ec876b1ecd35a3.png?r=b71" width="400" alt="Daniel Lazar's Dev Card"/></a>
