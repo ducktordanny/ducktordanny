@@ -13,4 +13,4 @@ Furthermore you can also find me on [Twitter](https://twitter.com/ducktordanny) 
 
 ## Daily.dev stats
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ducktordanny/ducktordanny/blob/main/devcard.svg" width="300" alt="DucktorDanny's Dev Card"/></a>
+<a href="https://app.daily.dev/ducktordanny"><img src="https://github.com/ducktordanny/ducktordanny/blob/main/devcard.svg" width="300" alt="DucktorDanny's Dev Card"/></a>
