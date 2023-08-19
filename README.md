@@ -11,6 +11,7 @@ Hi! My name is Daniel I live in Hungary and currently I'm working in frontend wi
 - Update portfolio, try new things with it like Nx
 - Deep dive into advanced frontend architectures with Angular and Nx
 - Make my own NeoVim configuration and its experience as smooth as possible
+- Write stories on Medium about challenges and progress
 - Try out some new technologies? :D
 
 ## Social Media
