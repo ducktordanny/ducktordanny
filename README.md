@@ -4,12 +4,19 @@
 
 ## About me 🙆🏼‍♂️
 
-Hi! My name is Daniel I live in Hungary and I'm a Computer Science Engineer student at University of Pannonia (Veszprem), but also love to learn new things by myself. Currently I'm working in frontend with Angular, but I also like doing things on the backend and using other frameworks/libraries as well. 🔧
+Hi! My name is Daniel I live in Hungary and currently I'm working in frontend with Angular, but I also like doing things on the backend and using other frameworks/libraries as well. 🔧
+
+## This year's goals:
+
+- Update portfolio, try new things with it like Nx
+- Deep dive into advanced frontend architectures with Angular and Nx
+- Make my own NeoVim configuration and its experience as smooth as possible
+- Try out some new technologies? :D
 
 ## Social Media
 
-I'm currently not really posting too frequently, but you can find me on [Instagram](https://instagram.com/ducktordanny) where I have some pictures what you might like and also can reach me in DM. 📱
-Furthermore you can also find me on [Twitter](https://twitter.com/ducktordanny) though I only use it occasionally.
+[Instagram](https://instagram.com/ducktordanny)
+[Twitter](https://twitter.com/ducktordanny)
 
 ## Daily.dev stats
 
