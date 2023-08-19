@@ -15,8 +15,8 @@ Hi! My name is Daniel I live in Hungary and currently I'm working in frontend wi
 
 ## Social Media
 
-[Instagram](https://instagram.com/ducktordanny)
-[Twitter](https://twitter.com/ducktordanny)
+- [Instagram](https://instagram.com/ducktordanny)
+- [Twitter](https://twitter.com/ducktordanny)
 
 ## Daily.dev stats
 
