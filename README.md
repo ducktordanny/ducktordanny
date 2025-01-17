@@ -8,16 +8,16 @@ Hi! My name is Daniel I live in Hungary and currently I'm working in frontend wi
 
 ## This year's goals:
 
-- Update portfolio, try new things with it like Nx
-- Deep dive into advanced frontend architectures with Angular and Nx
-- Make my own NeoVim configuration and its experience as smooth as possible
-- Write stories on Medium about challenges and progress
-- Try out some new technologies? :D
+- Improve my Rubik's cube skills and go to many competitions (maybe have some new projects related to this?).
+- Try out some new technologies
+- Update portfolio
+- In this year, do a dotfiles rewrite, add improvements, cleanup, etc.
 
 ## Social Media
 
 - [Instagram](https://instagram.com/ducktordanny)
 - [Twitter](https://twitter.com/ducktordanny)
+- [World Cube Association profile](https://www.worldcubeassociation.org/persons/2014LAZA04)
 
 ## Daily.dev stats
 
